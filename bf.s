@@ -2,7 +2,7 @@
   
   .data
 
-memory:   .zero     80            # Reserva 40 bytes de espacio
+memory:   .zero     80            # Reserva 80 bytes de espacio
 
   # test1, sin ciclos
   # imprime '2'
